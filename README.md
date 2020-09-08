@@ -1,2 +1,2 @@
-# pagina-dise-o-web-avanzado
-Pagina para Diseño web avanzado
+# Trabajo-30-Web-Avanzado
+Pagina para 30 web avanzado
